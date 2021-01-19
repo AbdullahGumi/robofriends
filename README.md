@@ -1,5 +1,5 @@
 # robofriends
-Tutorial for udemy course - React
+Udemy tutorial by abdrei neagoid, thanks
 To run the project:
 
 1. Clone this repo
