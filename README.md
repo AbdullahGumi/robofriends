@@ -1,5 +1,5 @@
 # robofriends
-Udemy tutorial by abdrei neagoid, thanks
+Udemy tutorial by abdrei neagoie, thanks
 To run the project:
 
 1. Clone this repo
